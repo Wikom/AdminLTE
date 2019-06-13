@@ -1,5 +1,5 @@
 {
-  "name": "AdminLte",
+  "name": "local-font-adminlte",
   "version": "2.3.12",
   "main": "dist/js/app.min.js",
   "repository": {
